@@ -16,6 +16,22 @@ Este projeto consiste na implementação do famoso problema das Torres de Hanói
 
 ## Tecnologias Utilizadas
 
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+    <img src="https://user-images.githubusercontent.com/5421823/62779160-4d8fff00-baaa-11e9-8534-d3f17248b073.png" height="40" alt="assembly"/>
+    <img src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png" height="40" alt="assembly"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1920px-Netwide_Assembler.svg.png" height="40" alt="assembly"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/><img width="14"/>
+
+</div>
+
+###
+
 ## Requisitos de Desenvolvimento
 
 *Para desenvolver e executar este projeto, você precisará das seguintes ferramentas:*

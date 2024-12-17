@@ -89,7 +89,7 @@ Alunos:
 * Maiara da Silva Lira - msl3
 * Jadson Alan de Abreu Souza - jaas
 
-## IMAGENS:
+## Demo:
 
 Montagem:
 ![image](https://github.com/user-attachments/assets/1967ec97-f1ac-4e86-8e0c-c5febae4ce89)
